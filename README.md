@@ -5,7 +5,7 @@ Onde através de uma página Web seja possível controlar um Motor de corrente c
 
 <hr>
 
-# WebServer-ESP32-MotorCC
+# WebServer-ESP32-MotorDC
 
 This project aims to implement a web server on an ESP32 microcontroller<br>
 Where through a web page it is possible to control a DC motor connected to the microcontroller<br>
